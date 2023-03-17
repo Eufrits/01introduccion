@@ -9,7 +9,7 @@ function calcularEdad(fecha) {
         edad--;
     }
 
-    return `Tiene ${edad} años`;
+    return `Tiene ${edad} años.`;
 }
 
 let calcular = document.getElementById("calcular");
